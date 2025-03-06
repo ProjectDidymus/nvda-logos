@@ -23,7 +23,7 @@ addon_info = {
 	"addon_summary": _("Logos Bible Study"),
 	# Add-on description
 	# Translators: Long description to be shown for this add-on on add-on information from add-ons manager
-	"addon_description": _("Improves accessibility for the Logos Bible Study stofwate"),
+	"addon_description": _("Improves accessibility for the Logos Bible Study software"),
 	# version
 	"addon_version": "0.1.0",
 	# Author(s)
